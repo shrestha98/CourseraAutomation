@@ -1,30 +1,30 @@
 English
-510
+507
 Spanish
-90
+86
 Portuguese (Brazil)
 52
 Korean
-48
+49
 Russian
-42
+43
 Chinese (China)
-39
+41
 Arabic
-38
+39
 Vietnamese
-29
+31
 Japanese
-28
+26
 German
 22
 French
-20
+21
 Greek
 10
-Romanian
-10
 Italian
+10
+Romanian
 9
 Persian
 8
@@ -32,11 +32,11 @@ Turkish
 8
 Portuguese (Portugal)
 5
-Serbian
-5
 Ukrainian
 5
 Chinese (Traditional)
+4
+Serbian
 4
 Dutch
 3
@@ -54,6 +54,8 @@ Hungarian
 2
 Polish
 2
+Telugu
+2
 Thai
 2
 Indonesian
@@ -67,8 +69,4 @@ Mongolian
 Nepali
 1
 Slovak
-1
-Swedish
-1
-Telugu
 1

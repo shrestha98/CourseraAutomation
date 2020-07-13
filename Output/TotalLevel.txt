@@ -1,8 +1,8 @@
 Beginner
-219
+224
 Intermediate
-206
+199
 Mixed
 136
 Advanced
-22
+21
